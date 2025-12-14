@@ -1,0 +1,15 @@
+# ===============================
+# GitHub Linguist – Unity Project
+# ===============================
+
+# ShaderLab (Unity)
+*.shader   linguist-ignore
+*.compute  linguist-ignore
+*.cginc    linguist-ignore
+
+# HLSL
+*.hlsl     linguist-ignore
+*.fx       linguist-ignore
+
+# Arquivos auxiliares do Unity
+*.meta     linguist-ignore
